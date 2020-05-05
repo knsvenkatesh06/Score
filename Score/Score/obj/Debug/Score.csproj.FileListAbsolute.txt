@@ -1,0 +1,6 @@
+D:\Venkatesh\WebAPI\Score\Score\bin\Debug\Score.exe.config
+D:\Venkatesh\WebAPI\Score\Score\bin\Debug\Score.exe
+D:\Venkatesh\WebAPI\Score\Score\bin\Debug\Score.pdb
+D:\Venkatesh\WebAPI\Score\Score\obj\Debug\Score.csprojResolveAssemblyReference.cache
+D:\Venkatesh\WebAPI\Score\Score\obj\Debug\Score.exe
+D:\Venkatesh\WebAPI\Score\Score\obj\Debug\Score.pdb
